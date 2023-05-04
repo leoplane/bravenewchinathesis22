@@ -26,21 +26,21 @@ height: 100vh; line-height: 100vh;
 #section2 {
 			background-image: url("1.png");
 			background-position: center center;
-			background-size: 62%;
+			background-size: 60%;
 }
 		
 #section3 {
 	background-image: url("2.png");
 	background-size: cover;
 	background-position: center;
-	background-size: 55%;
+	background-size: 50%;
   }
 
 #section4 { 
 	background-image: url("3.png");
 	background-size: cover;
 	background-position: center;
-	background-size: 62%;}
+	background-size: 60%;}
 
 #section5 {
 	background: linear-gradient(to top, #a55c54,#fed6e3);
